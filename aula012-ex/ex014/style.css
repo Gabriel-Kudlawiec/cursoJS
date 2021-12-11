@@ -19,8 +19,12 @@ section {
     width: 500px;
 }
 
-section > div {
+section > div > p {
+    color: black;
+}
 
+section > div > img {
+    border-radius: 100%;
 }
 
 footer {
